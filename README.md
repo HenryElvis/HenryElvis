@@ -25,9 +25,7 @@ Checkout my [itch.io](https://kiraa24.itch.io/) to test my games
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-381.7%20million%20lines%20of%20code-red)
 
 **🐱 My GitHub Data** 
-
-> 📦 1.5 MB Used in GitHub's Storage 
- > 
+ 
 > 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
