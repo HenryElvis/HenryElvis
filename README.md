@@ -18,11 +18,11 @@ Checkout my [itch.io](https://kiraa24.itch.io/) to test my games
 ## I love stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2059%20mins-red)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HenryElvis&color=red)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-381.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-381.7%20million%20lines%20of%20code-red)
 
 **🐱 My GitHub Data** 
 
