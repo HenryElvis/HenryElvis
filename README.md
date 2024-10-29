@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !
 
-<!--
-**HenryElvis/HenryElvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Henry Elvis, un développeur passionné avec une expertise en jeux vidéo application web et mobile. Mon objectif est de découvrir toujours plus et de transformer des idées en projets.
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Éducation** : Mastere Game Programming, IIM Digital School
+- 📍 **Localisation** : Neuilly-Sur-Seine, France
+
+## 🛠️ Compétences techniques
+
+Voici un aperçu de mes compétences techniques :
+
+### Langages
+- **Langages de programmation** : TypeScript, C++, C#
+- **Frameworks & bibliothèques** : React / React Native, SDL
+
+### Outils
+- **Outils de développement** : Git, Visual Studio / Visual Studio Code
+- **Bases de données** : MongoDB, FireBase, Game Analytics
+
+### Compétences supplémentaires
+- **Adaptabilité aux nouvelles technologies, Sens de l’organisation, Résolution de problèmes complexes**
+
+## 📂 Projets notables
+
+Voici certains de mes projets :
+
+### Ragoon Rumble
+- **Description** : Ragoon Rumble is a food-centered roguelike, where you use your cooking pot to defeat the alimonsters that you will face through your exploration of the Yum-Yum Forest.
+- **Technologies** : Unity
+- **Lien du projet** : https://elecktro-punch.itch.io/ragoon-rumble
+
+## 🌐 Retrouvez-moi en ligne
+
+- **Portfolio** : [https://henryelvis.fr/](https://henryelvis.fr/)
+- **Twitch** : [https://www.twitch.tv/kiraa24_](https://www.twitch.tv/kiraa24_)
+ 
+---
+
+Merci de visiter mon profil GitHub ! Si vous souhaitez collaborer ou discuter, n'hésitez pas à me contacter. 🚀
