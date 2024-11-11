@@ -16,7 +16,7 @@ Voici un aperçu de mes compétences techniques :
 - **Frameworks & bibliothèques** : React / React Native, SDL
 
 ### Outils
-- **Outils de développement** : GitKraken, Visual Studio / Visual Studio Code
+- **Outils de développement** : Unity, Unreal Engine, GitKraken, Visual Studio / Visual Studio Code
 - **Bases de données** : MongoDB, FireBase, Game Analytics
 
 ### Compétences supplémentaires
