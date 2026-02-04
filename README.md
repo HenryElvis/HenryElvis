@@ -34,7 +34,6 @@ Voici certains de mes projets :
 ## 🌐 Retrouvez-moi en ligne
 
 - **Portfolio** : [https://henryelvis.fr/](https://henryelvis.fr/)
-- **Twitch** : [https://www.twitch.tv/kiraa24_](https://www.twitch.tv/kiraa24_)
  
 ---
 
