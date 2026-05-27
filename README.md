@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub !
 
-Je suis Henry Elvis, un développeur passionné avec une expertise en jeux vidéo application web et mobile. Mon objectif est de découvrir toujours plus et de transformer des idées en projets.
+Je suis Henry Elvis, un développeur passionné avec une expertise en jeux vidéo et application web. Mon objectif est de découvrir toujours plus et de transformer des idées en projets. J'occupe actuellement le poste d'ingénieur QA en automatisation chez Capgemini.
 
 ## 🚀 À propos de moi
 
@@ -12,8 +12,9 @@ Je suis Henry Elvis, un développeur passionné avec une expertise en jeux vidé
 Voici un aperçu de mes compétences techniques :
 
 ### Langages
-- **Langages de programmation** : TypeScript, C++, C#
-- **Frameworks & bibliothèques** : React / React Native, SDL
+- **Langages de programmation** : TypeScript, Python, C++, C#, Java
+- **Frameworks & bibliothèques** : React / React Native, SDL, Playwright, Robot Framework, Karaté
+- **Outils** : LoadRunner, Apache JMetter, Jira / XRay
 
 ### Outils
 - **Outils de développement** : Unity, Unreal Engine, GitKraken, Visual Studio / Visual Studio Code
