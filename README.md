@@ -14,7 +14,7 @@ Voici un aperçu de mes compétences techniques :
 ### Langages
 - **Langages de programmation** : TypeScript, Python, C++, C#, Java
 - **Frameworks & bibliothèques** : React / React Native, SDL, Playwright, Robot Framework, Karaté
-- **Outils** : LoadRunner, Apache JMetter, Jira / XRay
+- **Outils** : LoadRunner, Apache JMetter, Jira, Bruno (API)
 
 ### Outils
 - **Outils de développement** : Unity, Unreal Engine, GitKraken, Visual Studio / Visual Studio Code
